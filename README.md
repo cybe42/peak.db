@@ -1,16 +1,25 @@
+<div align="center">
+  <a href="https://discord.js.org"><img src="https://discord.js.org/static/logo.svg" width="546" alt="peak.db"/>
+  <br/>
+  <img src="https://badgen.net/npm/v/peak.db"/>
+  <img src="https://badgen.net/npm/license/peak.db"/>
+  <img src="https://badgen.net/npm/node/peak.db"/>
+  <img src="https://badgen.net/npm/dt/peak.db"/>
+</div>
+
 # peak.db ![version](https://badgen.net/npm/v/peak.db) ![license](https://badgen.net/npm/license/peak.db) ![node-version](https://badgen.net/npm/node/peak.db) ![downloads](https://badgen.net/npm/dt/peak.db)
 
 Fast and advanced, document based NoSQL database that able to work as it is installed.
 
 ## Features
 
-  * NoSQL
+  * NoSQL database
   * Can be run as it is installed
   * Customizable settings for all collections
   * Quick data reading and writing
   * Automatically or manual backup
-  * Free data documents
-  * Easy filtering documents
+  * No need to use schema
+  * Easy to find data
 
 ## Usage
 
