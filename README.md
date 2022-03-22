@@ -15,7 +15,7 @@ Fast and advanced, document based NoSQL database that able to work as it is inst
 
   * NoSQL database
   * Can be run as it is installed
-  * Customizable settings for all collections
+  * Customizable settings for collections
   * Quick data reading and writing
   * Automatically or manual backup
   * No need to use schema
