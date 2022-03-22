@@ -1,4 +1,4 @@
-aconst sqlite3 = require("better-sqlite3")
+const sqlite3 = require("better-sqlite3")
   , fs = require("fs")
   , path = require("path")
   , bson = require("bson")
