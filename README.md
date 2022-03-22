@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/mbJC8yX/unknown.png" width="512"/>
+  <img src="https://i.ibb.co/mbJC8yX/unknown.png" width="512px"/>
   <br/>
   <img src="https://badgen.net/npm/v/peak.db"/>
   <img src="https://badgen.net/npm/license/peak.db"/>
