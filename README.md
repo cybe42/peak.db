@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://discord.js.org"><img src="https://discord.js.org/static/logo.svg" width="546" alt="peak.db"/>
+  <img src="//i.ibb.co/mbJC8yX/unknown.png" width="546"/>
   <br/>
-  <img src="https://badgen.net/npm/v/peak.db"/>
-  <img src="https://badgen.net/npm/license/peak.db"/>
-  <img src="https://badgen.net/npm/node/peak.db"/>
-  <img src="https://badgen.net/npm/dt/peak.db"/>
+  <img src="//badgen.net/npm/v/peak.db"/>
+  <img src="//badgen.net/npm/license/peak.db"/>
+  <img src="//badgen.net/npm/node/peak.db"/>
+  <img src="//badgen.net/npm/dt/peak.db"/>
 </div>
 
 # peak.db ![version](https://badgen.net/npm/v/peak.db) ![license](https://badgen.net/npm/license/peak.db) ![node-version](https://badgen.net/npm/node/peak.db) ![downloads](https://badgen.net/npm/dt/peak.db)
