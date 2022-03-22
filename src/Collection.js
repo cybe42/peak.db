@@ -22,7 +22,7 @@ function filterTime(e, t = !1) {
   return e = e.toString(), !0 === t ? ("00" === e && (e = "0"), "01" === e && (e = "1"), "02" === e && (e = "2"), "03" === e && (e = "3"), "04" === e && (e = "4"), "05" === e && (e = "5"), "06" === e && (e = "6"), "07" === e && (e = "7"), "08" === e && (e = "8"), "09" === e && (e = "9")) : ("0" === e && (e = "00"), "1" === e && (e = "01"), "2" === e && (e = "02"), "3" === e && (e = "03"), "4" === e && (e = "04"), "5" === e && (e = "05"), "6" === e && (e = "06"), "7" === e && (e = "07"), "8" === e && (e = "08"), "9" === e && (e = "09")), e
 }
 
-let Debug = false;
+let Debug = true;
 
 function _error(...inp) { if(Debug) { console.error(...inp) } }
 function _log(...inp) { if(Debug) { console.log(...inp) } }
