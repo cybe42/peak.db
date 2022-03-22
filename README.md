@@ -7,7 +7,7 @@
   <img src="https://badgen.net/npm/dt/peak.db"/>
 </div>
 
-# peak.db ![version](https://badgen.net/npm/v/peak.db) ![license](https://badgen.net/npm/license/peak.db) ![node-version](https://badgen.net/npm/node/peak.db) ![downloads](https://badgen.net/npm/dt/peak.db)
+## About
 
 Fast and advanced, document based NoSQL database that able to work as it is installed.
 
