@@ -35,7 +35,7 @@ class Collection {
           recursive: !0
         }, e => console.error("\x1b[36mpeakdb \x1b[34m» \x1b[31mError creating folders.\x1b[0m")), findremove("./peakdb/Backups/Collections", {
           age: {
-            seconds: 86400 * (e.delete_backups_days_ago || 3)
+            seconds: 86400 * (e.delete_backups_before_this_day || 3)
           }
           , extensions: [".pea"]
         });
